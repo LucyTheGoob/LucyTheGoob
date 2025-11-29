@@ -6,4 +6,5 @@ I know HTML, CSS, Python and C/C++.
 
 # Fun facts about me: 
 --> I have a cat
+
 --> I love vocaloid and harddance music.
